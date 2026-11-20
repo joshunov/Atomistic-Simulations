@@ -1,0 +1,6 @@
+# Compiled executables
+monte-carlo/*
+!monte-carlo/*.cpp
+*.o
+*.out
+*.exe

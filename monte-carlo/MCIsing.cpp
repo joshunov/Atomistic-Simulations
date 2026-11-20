@@ -1,12 +1,10 @@
 // l x l binary grid
 
-
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
 #include <vector>
 using namespace std;
-
 
 int main(){
 
